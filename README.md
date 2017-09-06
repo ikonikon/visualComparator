@@ -3,7 +3,7 @@ MATLAB-based program for visual and statistical comparison (two-sample tests) of
 
 
 visualComparator provides:
-- visual comparison of ecdf (empirical cumulative distribution function) between two datasets
+- visual comparison of ecdf's (empirical cumulative distribution functions) between two datasets
 - location amd magnitude of the maximum deviation between ecdf's
 - Kolomogorov-Smirnov test is used to compare the marginal distirbutions and extract the two-sample test p-value 
   (p-value >0.05 suggests possibility of the two datasets originating from the same underlying model)
