@@ -10,7 +10,10 @@ visualComparator provides:
 - visual comparison of scatter plots and heat maps between two datasets
 - display of Pearson, Kendall and Spearman correlation coefficients
 
-PLease credit this tool by referencing the following paper:
+See the wiki for more info.
+
+Please credit this tool by referencing the following paper:
+
 M. Sun, I. Konstantelos and G. Strbac, “Evaluating Composite Approaches to Modelling High-Dimensional Stochastic Variables in Power Systems”, Power Systems Computation Conference (PSCC), Genoa, 2016.
 
-Please see the wiki for more info.
+
