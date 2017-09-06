@@ -17,6 +17,7 @@ Launch visualComparatorGUI.fig in MATLAB. See the wiki for more info on input an
 ----------------------------------------------------------------------------------------------------
 License:
 Please credit this tool by referencing the following paper:
+
 M. Sun, I. Konstantelos and G. Strbac, “Evaluating Composite Approaches to Modelling High-Dimensional Stochastic Variables in Power Systems”, Power Systems Computation Conference (PSCC), Genoa, 2016.
 
 
