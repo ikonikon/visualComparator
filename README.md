@@ -1,7 +1,7 @@
 # visualComparator
 MATLAB-based program for visual and statistical comparison (two-sample tests) of high-dimensional data sets
 
-
+----------------------------------------------------------------------------------------------------
 visualComparator provides:
 - visual comparison of ecdf's (empirical cumulative distribution functions) between two datasets
 - location amd magnitude of the maximum deviation between ecdf's
@@ -10,10 +10,13 @@ visualComparator provides:
 - visual comparison of scatter plots and heat maps between two datasets
 - display of Pearson, Kendall and Spearman correlation coefficients
 
-See the wiki for more info.
+----------------------------------------------------------------------------------------------------
+Usage:
+Launch visualComparatorGUI.fig in MATLAB. See the wiki for more info on input and output specification.
 
+----------------------------------------------------------------------------------------------------
+License:
 Please credit this tool by referencing the following paper:
-
 M. Sun, I. Konstantelos and G. Strbac, “Evaluating Composite Approaches to Modelling High-Dimensional Stochastic Variables in Power Systems”, Power Systems Computation Conference (PSCC), Genoa, 2016.
 
 
